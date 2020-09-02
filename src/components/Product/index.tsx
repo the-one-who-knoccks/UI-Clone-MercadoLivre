@@ -48,6 +48,8 @@ const WarrantySection = () => (
         <p className="description">Garantia de 3 meses</p>
       </span>
     </div>
+
+    <a href="/">Saiba mais sobre a garantia</a>
   </Section>
 )
 
