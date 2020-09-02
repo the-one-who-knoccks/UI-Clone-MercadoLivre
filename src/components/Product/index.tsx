@@ -3,6 +3,7 @@ import React from 'react';
 import { Container, Row, Panel, Column, Gallery, Section, Description } from './styles';
 
 import tshirtImage from '../../assets/tshirt.png';
+import SellerInfo from '../SellerInfo';
 
 const Product: React.FC = () => {
   return (
@@ -22,8 +23,8 @@ const Product: React.FC = () => {
         </Column>
 
         <Column>
-          {/*<ProductAction />
-          <SellerInfo /> */}
+          {/*<ProductAction /> */}
+          <SellerInfo />
 
           <WarrantySection />
           <WarrantySection />
