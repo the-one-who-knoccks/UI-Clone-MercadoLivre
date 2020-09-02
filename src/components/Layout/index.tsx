@@ -1,12 +1,18 @@
 import React from 'react';
 
-import { Container } from './styles';
+
+import Product from  '../Product';
+
+import { Container, Wrapper} from './styles';
 
 const Layout: React.FC = () => {
   return (
     <Container>
-      <h1>Teste</h1>
+      <Wrapper>
+        <Product />
+      </Wrapper>
     </Container>
+
   )
 }
 
