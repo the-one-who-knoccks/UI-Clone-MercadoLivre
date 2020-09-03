@@ -24,7 +24,7 @@ const ProductAction: React.FC = () => {
     <Container>
       <Condition>Novo | 15 vendidos </Condition>
       <Row>
-        <h1>Camiseta Branca</h1>
+        <h1>Smart TV AOC 43S5195/78G LED Full HD 43"</h1>
         <HeartIcon />
       </Row>
 
@@ -33,11 +33,11 @@ const ProductAction: React.FC = () => {
       <PriceCard>
         <PriceRow>
           <span className="symbol">R$</span>
-          <span className="fractions">29</span>
+          <span className="fractions">1499</span>
           <span className="cents">90</span>
         </PriceRow>
 
-        <InstallmentsInfo>em 3x de 11,67</InstallmentsInfo>
+        <InstallmentsInfo>em 12x de 124,99 sem juros</InstallmentsInfo>
       </PriceCard>
 
       <StockStatus>Estoque disponível</StockStatus>

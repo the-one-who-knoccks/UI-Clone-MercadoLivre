@@ -73,6 +73,7 @@ export const PriceRow = styled.div`
 
 export const InstallmentsInfo = styled.div`
   font-size: 16px;
+  color: var(--color-green);
 `;
 export const StockStatus = styled.div`
   margin-top: 24px;
