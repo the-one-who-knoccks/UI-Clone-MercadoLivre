@@ -10,6 +10,7 @@ const Header: React.FC = () => {
       <input type="text" placeholder="Buscar produtos, marcas e muito mais..." />
       <SearchIcon />
     </Container>
+
   );
 };
 
