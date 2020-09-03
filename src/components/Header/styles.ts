@@ -2,11 +2,7 @@ import styled from "styled-components";
 
 import {HiOutlineSearch} from 'react-icons/hi';
 
-export const SearchIcon = styled(HiOutlineSearch)`
-  width: 24px;
-  height: 24px;
-  color: #000;
-`
+
 
 export const Container = styled.div`
   width: 100%;
@@ -29,3 +25,13 @@ export const Container = styled.div`
     font-size: 16px;
   }
 `;
+
+export const SearchIcon = styled(HiOutlineSearch)`
+  width: 24px;
+  height: 24px;
+  color: #c0c0c0c0; 
+  margin-left: 320px;
+  position: absolute;
+  cursor: pointer;
+
+`
