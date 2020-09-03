@@ -1,12 +1,15 @@
 import React from "react";
 
-import { Container } from "./styles";
+import { Container, SearchIcon } from "./styles";
+
+
 
 const Header: React.FC = () => {
   return (
-  <Container>
-    <input type="text"  placeholder="Buscar produtos, marcas e muito mais..."/>
-  </Container>
+    <Container>
+      <input type="text" placeholder="Buscar produtos, marcas e muito mais..." />
+      <SearchIcon />
+    </Container>
   );
 };
 
