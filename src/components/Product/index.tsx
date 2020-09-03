@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Row, Panel, Column, Gallery, Section, Description } from './styles';
 
-import tshirtImage from '../../assets/tshirt.png';
+import tvImage from '../../assets/tv.jpg';
 import SellerInfo from '../SellerInfo';
 import ProductAction from '../ProductAction';
 
@@ -17,7 +17,7 @@ const Product: React.FC = () => {
       <Panel>
         <Column>
           <Gallery>
-            <img src={tshirtImage} alt="T-shirt" />
+            <img src={tvImage} alt="Tv" />
           </Gallery>
 
           <Info />
@@ -62,10 +62,10 @@ const Info = () => (
     <br />
     <br />
     Itens inclusos: <br />
-    - 1x LED <br />
-    - 1x LED <br />
-    - 1x LED <br />
-    - 1x LED <br />
+    - 1x tv led 43" <br />
+    - 1x Controle remoto <br />
+    - 1x Cabo HDMI <br />
+
     <br />
 
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea rerum cupiditate quia magnam nam voluptas, alias nemo a reiciendis est eum pariatur quasi quibusdam ad? Hic mollitia distinctio beatae iure!
