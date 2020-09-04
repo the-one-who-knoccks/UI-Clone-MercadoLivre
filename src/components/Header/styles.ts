@@ -29,7 +29,7 @@ export const Container = styled.div`
 export const SearchIcon = styled(HiOutlineSearch)`
   width: 24px;
   height: 24px;
-  color: #c0c0c0c0; 
+  color: var(--color-black); 
   margin-left: 320px;
   position: absolute;
   cursor: pointer;
