@@ -7,5 +7,5 @@ Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a o
 </h1> 
     
 
-
+  
 Made by Rocketset. Improved with :purple_heart: by Thiago Alves 
