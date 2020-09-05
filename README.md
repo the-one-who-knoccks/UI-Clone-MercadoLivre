@@ -5,7 +5,7 @@ Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a o
 <h1 align="center">
   <img alt="UI-Clone" title="UI-Clone-ML" src="https://ik.imagekit.io/hld13bjzb1/Clone_o1gxELgtO.png"  />
 </h1> 
-  
+    
 
 
 Made by Rocketset. Improved with :purple_heart: by Thiago Alves 
