@@ -8,4 +8,4 @@ Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a o
     
 
   
-Made by Rocketset. Improved with :purple_heart: by Thiago Alves 
+Made by Rocketseat. Improved with :purple_heart: by Thiago Alves 
