@@ -1,4 +1,4 @@
-UI clone da interface de anúncio de produtos do Mercado Livre. Interface criado por Guilherme Rodz, da Rocketseat. :rocket:
+🎁 UI clone da interface de anúncio de produtos do Mercado Livre. Interface criado por Guilherme Rodz, da Rocketseat. :rocket:
 Estou aprimorando o código aos poucos para deixar o mais fiél possivel com a original.
  
 
